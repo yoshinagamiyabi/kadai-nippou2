@@ -1,6 +1,6 @@
 package constants;
 
-enum AttributeConst {
+public enum AttributeConst {
   //フラッシュメッセージ
     FLUSH("flush"),
 
@@ -21,7 +21,7 @@ enum AttributeConst {
     //従業員管理
     EMPLOYEE("employee"),
     EMPLOYEES("employees"),
-    EMP_COUNT("employees_count"),
+    EMP_COUNT("employees_coupublic nt"),
     EMP_ID("id"),
     EMP_CODE("code"),
     EMP_PASS("password"),

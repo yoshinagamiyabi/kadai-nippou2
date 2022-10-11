@@ -1,6 +1,6 @@
 package constants;
 
-enum ForwardConst {
+public enum ForwardConst {
   //action
     ACT("action"),
     ACT_TOP("Top"),

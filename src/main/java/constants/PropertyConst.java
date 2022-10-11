@@ -1,6 +1,6 @@
 package constants;
 
-enum PropertyConst {
+public enum PropertyConst {
     //ペッパー文字列
     PEPPER("pepper");
 
