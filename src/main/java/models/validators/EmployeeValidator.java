@@ -6,7 +6,7 @@ import java.util.List;
 
 import actions.views.EmployeeView;
 import constants.MessageConst;
-import service.EmployeeService;
+import services.EmployeeService;
 
 /**
  * 従業員インスタンスに設定されている値のバリデーションを行うクラス
